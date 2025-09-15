@@ -37,6 +37,8 @@ This project aims to develop a machine learning pipeline to classify financial d
     Accuracy, Precision (macro), Recall (macro), F1-Score (macro), Confusion Matrix
 
 - **Performance Summary:**
+
+  
 | Model                         | Accuracy | Precision | Recall | F1-Score |
 | ----------------------------- | -------- | --------- | ------ | -------- |
 | Logistic Regression           | 0.64     | 0.63      | 0.68   | 0.64     |
